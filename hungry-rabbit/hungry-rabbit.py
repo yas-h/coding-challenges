@@ -67,4 +67,4 @@ if __name__ == "__main__":
         [3, 1, 0, 5, 8]
     ]
 
-    print hungry_rabbit(garden)
+    print (hungry_rabbit(garden))
